@@ -35,7 +35,7 @@ public class Test1 {
 
     @Test
     public void testlj(){
-        System.out.println("测试了代码——1228lj----");
+        System.out.println("测试了代码——1228lj");
     }
 
     @Test
