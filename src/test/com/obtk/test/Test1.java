@@ -42,4 +42,9 @@ public class Test1 {
     public void testzxd(){
         System.out.println("1228zxd");
     }
+
+    @Test
+    public void testlj2(){
+        System.out.println("测试了代码——1228...lj");
+    }
 }
